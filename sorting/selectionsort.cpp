@@ -15,7 +15,7 @@ int main() {
             }
         }
 
-        // Swap the found minimum element with the first element
+        // Swap the found minimum element with the first elements
         swap(arr[i], arr[minIndex]);
     }
 
